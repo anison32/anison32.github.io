@@ -1,0 +1,29 @@
+
+@media(max-width:670px){
+  .left-box{
+    display:none;
+  }
+  .main-box ,.index-box{
+    margin-left:20px;
+    width:100rw;
+    background-size:cover;
+  }
+  .s-title{
+    margin-left:40px;
+    text-align:center;
+  }
+  .s-title a{
+    display:inline;
+  }
+
+  .main-box{
+    position:relative;
+    margin-top:20px;
+  }
+.index-box{
+  position:relative;
+}
+
+
+
+｝
